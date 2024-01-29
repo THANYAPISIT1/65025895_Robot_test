@@ -9,7 +9,7 @@ Suite Setup       Open Browser    http://automationexercise.com/contact_us   chr
 ${name}          Thanyapisit
 ${email}         65025895@up.ac.th
 ${subject}       Robot Test
-${message}       Test1
+${message}       Test123
 ${selectedfile}  ${CURDIR}/Kangkok.jpg
 ${uploadfilepath}    xpath=//input[@type="file"]
 
